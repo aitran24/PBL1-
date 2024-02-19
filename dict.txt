@@ -1,0 +1,165 @@
+private
+adj
+rieng tu
+camera
+noun
+may anh
+eat
+verb
+an
+both
+adv
+ca hai
+look
+verb
+nhin
+cause
+verb
+gay ra
+fish
+noun
+con ca
+buy
+verb
+mua
+family
+noun
+gia dinh
+provide
+verb
+cung cap
+detail
+noun
+chi tiet
+hope
+noun
+hy vong
+come
+verb
+den
+class
+noun
+lop hoc
+discuss
+verb
+thao luan
+little
+adj
+nho be
+game
+noun
+tro choi
+book
+noun
+quyen sach
+learn
+verb
+hoc
+happen
+verb
+xay ra
+change
+verb
+thay doi
+art
+noun
+nghe thuat
+capital
+noun
+thu do
+area
+noun
+khu vuc
+food
+noun
+do an
+energy
+noun
+nang luong
+air
+noun
+khong khi 
+early
+adj
+som
+common
+adj
+chung
+animal
+noun
+dong vat
+public
+noun
+cong khai
+listen
+verb
+lang nghe
+good
+adj
+tot
+enjoy
+verb
+thich thu
+certain
+adj
+chac chan
+color
+noun
+mau sac
+future
+noun
+tuong lai
+city
+noun
+thanh pho
+option
+noun
+su lua chon
+list
+noun
+danh sach
+compare
+verb
+so sanh
+give
+verb
+nhan duoc
+happy
+adj
+hanh phuc
+fast
+adj
+nhanh
+easy
+adj
+de dang
+paper
+noun
+giay
+music
+noun
+am nhac
+glass
+noun
+thuy tinh
+idea
+noun
+y tuong
+goodbye
+noun
+tam biet
+prepare
+verb
+chuan bi
+bad
+adj
+xau
+check
+verb
+kiem tra
+party
+noun
+bua tiec
+hello
+noun
+xin chao
